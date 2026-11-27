@@ -77,8 +77,8 @@ Los archivos generados se guardan en la carpeta `dist`.
 
 ## Enlaces de entrega
 
-**Repositorio GitHub:** pendiente de completar.
+**Repositorio GitHub:** https://github.com/MATMSER/urban-shop-react
 
-**Aplicación publicada (Deploy):** pendiente de completar.
+**Aplicación publicada (Deploy):** https://urban-shop-react.netlify.app
 
 Proyecto realizado en JavaScript para la entrega del Proyecto Final de React.
